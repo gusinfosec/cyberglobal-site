@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background -->
+  <rect width="64" height="64" rx="10" fill="#0d1628"/>
+  <rect x="2" y="2" width="60" height="60" rx="8" fill="none" stroke="#C9A84C" stroke-width="1.5"/>
+  <!-- Globe circle -->
+  <circle cx="32" cy="32" r="20" fill="none" stroke="#C9A84C" stroke-width="1.5"/>
+  <!-- Globe latitude/longitude lines -->
+  <ellipse cx="32" cy="32" rx="10" ry="20" fill="none" stroke="#C9A84C" stroke-width="1" opacity="0.6"/>
+  <line x1="12" y1="32" x2="52" y2="32" stroke="#C9A84C" stroke-width="1" opacity="0.6"/>
+  <line x1="14" y1="22" x2="50" y2="22" stroke="#C9A84C" stroke-width="0.8" opacity="0.4"/>
+  <line x1="14" y1="42" x2="50" y2="42" stroke="#C9A84C" stroke-width="0.8" opacity="0.4"/>
+  <!-- Shield -->
+  <path d="M32 20 L22 25 L22 36 C22 43 32 48 32 48 C32 48 42 43 42 36 L42 25 Z" fill="#0d1628" stroke="#C9A84C" stroke-width="1.5"/>
+  <!-- C letter -->
+  <text x="32" y="39" text-anchor="middle" font-family="Georgia, serif" font-weight="700" font-size="16" fill="#C9A84C">C</text>
+</svg>
