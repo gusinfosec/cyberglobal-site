@@ -1,0 +1,22 @@
+# Cyber Global Technologies
+
+> Cyber Global Technologies LLC is an IT risk, compliance, and audit
+> advisory firm. Our advisory team brings 20+ years of Fortune 500 audit
+> experience across every major compliance framework — SOX, SOC 2,
+> ISO 27001, NIST, HIPAA, HITRUST, PCI-DSS, NYDFS, and GDPR. We assess,
+> remediate, and automate compliance — senior expertise without Big 4
+> overhead — and build a portfolio of compliance SaaS products.
+
+## Services
+
+- [Services](https://cyberglobal.ai/#services): Compliance assessments, control gap analysis, risk scoring, and prioritized remediation roadmaps
+- [About](https://cyberglobal.ai/#about): Senior-level delivery with deep vertical expertise
+- [Book a Consultation](https://calendly.com/fretsolivares/30min): Free 30-minute consultation
+
+## Products
+
+- [OutreachSafe](https://outreachsafe.com): LinkedIn outreach compliance checker (LinkedIn guidelines, CAN-SPAM, GDPR)
+- [Compliance AI](https://compliance.cyberglobal.ai): AI-powered compliance analysis for SOX ITGC, ISO 27001, SOC 2, PCI-DSS, HIPAA, and HITRUST
+- [InboxSafe](https://inboxsafe.app): Phishing-detection Chrome extension for Gmail, Outlook, and LinkedIn
+- [PropAudit](https://propaudit.io): Self-serve compliance audits for property management (FTC Safeguards, CCPA, Fair Housing)
+- [MergeMind](https://mergemind.dev): GitHub Action mapping PR diffs to SOX, SOC 2, and ISO 27001 controls
