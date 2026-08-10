@@ -13,6 +13,11 @@
 - [About](https://cyberglobal.ai/#about): Senior-level delivery with deep vertical expertise
 - [Book a Consultation](https://calendly.com/fretsolivares/30min): Free 30-minute consultation
 
+## Framework Expertise
+
+- SOX (ITGC, SOX 404, PCAOB), SOC 2, ISO 27001/27002, HIPAA, HITRUST, PCI-DSS, NIST CSF, COBIT, COSO, GDPR, CCPA, NYDFS, BSA/AML, FACTA, FCRA, SSAE 18, Zero Trust, IT General Controls
+- Audit & advisory: IT risk assessment, IT internal audit, regulatory compliance, data migration audit, cybersecurity assessment, third-party risk / vendor risk management (TPRM), supply chain security
+
 ## Products
 
 - [OutreachSafe](https://outreachsafe.com): LinkedIn outreach compliance checker (LinkedIn guidelines, CAN-SPAM, GDPR)
