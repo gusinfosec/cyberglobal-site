@@ -1,0 +1,7 @@
+# Legacy Compliance AI paths -> consolidated app subdomain
+/compliance-ai   https://compliance.cyberglobal.ai 301
+/compliance      https://compliance.cyberglobal.ai 301
+/compliance/     https://compliance.cyberglobal.ai 301
+/complianceai    https://compliance.cyberglobal.ai 301
+/app/compliance  https://compliance.cyberglobal.ai 301
+/apps/compliance https://compliance.cyberglobal.ai 301
